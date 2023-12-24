@@ -8,6 +8,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=helloimzeus&theme=dracula&show_icons=true&count_private=true&hide_border=true"  height="170" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloimzeus&theme=dracula&hide_border=true&layout=compact"  height="170"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloimzeus&theme=dracula&hide_border=true&layout=compact"  height="170"  />
   <img src="https://streak-stats.demolab.com?user=helloimzeus&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="170" alt="streak graph"  />
 </div>
