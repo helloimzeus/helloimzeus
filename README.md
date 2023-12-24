@@ -6,5 +6,8 @@
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-emre-k-150658145/)
 
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=helloimzeus&show_icons=true&theme=radical)
+<div align="center">
+  ![Github stats 2](https://github-readme-stats.vercel.app/api?username=helloimzeus&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloimzeus&theme=dracula&hide_border=true&layout=compact"  height="170"  />
+  <img src="https://streak-stats.demolab.com?user=helloimzeus&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="170" alt="streak graph"  />
+</div>
